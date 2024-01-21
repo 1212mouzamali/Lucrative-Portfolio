@@ -1,0 +1,322 @@
+/* first page starts here
+first page starts here */
+*{
+    box-sizing: border-box;
+}
+.chair-sofa{
+    height: 375px;
+    width: 100%;
+}
+.white-sofa{
+    height: 375px;
+    width: 100%;
+}
+.blue-sofa{
+    height: 375px;
+    width: 100%;
+}
+.swimming-girl{
+    height: 375px;
+    width: 100%;
+}
+.carousel-control-next-icon {
+    height: 24px !important;
+    transform: rotate(-50deg);
+    filter: invert(46%) sepia(76%) saturate(325%) hue-rotate(18deg) brightness(86%) contrast(85%);
+}
+.carousel-control-next {
+    padding-left: 1px !important;
+    border: 1px solid #ADA96e !important;
+    height: 35px;
+    width: 34px !important;
+    transform: rotate(45deg);
+    position: absolute;
+    top: 45% !important;
+    left: 96%;
+    background-color: white !important;
+    opacity: 1 !important;
+}
+.carousel-control-prev-icon {
+    height: 24px !important;
+    transform: rotate(-50deg);
+    filter: invert(46%) sepia(76%) saturate(325%) hue-rotate(18deg) brightness(86%) contrast(85%);
+}
+.carousel-control-prev {
+    border: 1px solid #ADA96e !important;
+    height: 35px;
+    width: 34px !important;
+    transform: rotate(45deg);
+    position: absolute;
+    top: 45% !important;
+    left: -4% !important;
+    background-color: white !important;
+    opacity: 1 !important;
+}
+
+
+.for-padding-first-carousal-paras{
+    
+    padding-top: 4%;
+}
+.cambre {
+    
+    font-size: calc(1.9vw + 5px);
+    color:#0d0d73;
+    font-weight: 800;
+    font-family: serif;
+
+
+}
+.first-para-of-first-carousal{
+      font-size: 10px;
+      font-family:acumin;
+      font-weight: 600;
+
+      
+}
+.images-list ul li {
+    list-style-type: '-';
+}
+
+.images-list {
+    column-count: 2;
+    font-size: 11px;
+   margin-left: -6%;
+  
+   font-family: acumin;
+
+}
+.patir{
+    font-family: acumin;
+    margin-top: 3%;
+    margin-left: 22%;
+    font-size: calc(0.7vw + 5px);
+    font-weight: 600;
+}
+.first-col-padding{
+    padding-left: 6% !important;
+    padding-right: 5% !important;
+}
+
+/* first page ends here
+first page ends here */
+
+
+
+
+
+
+.carousel-container {
+    margin-top: 10%;
+}
+
+
+
+.first-list-end-img {
+    width: 7%;
+    height: 7%;
+    filter: invert(106%) sepia(153%) saturate(1463%) hue-rotate(177deg) brightness(98%) contrast(94%);
+}
+
+.second-list-end-img {
+    filter: invert(64%) sepia(78%) saturate(737%) hue-rotate(6deg) brightness(118%) contrast(55%);
+    width: 7%;
+    height: 7%;
+}
+.second-para{
+    padding-left: 1%;
+    padding-top:2%;
+}
+
+.en-saviour {
+    color: #00004D;
+}
+.reserver{
+    color:#ad9863;
+}
+
+.top-p {
+    color: #ad9863;
+    margin-top: 1%;
+    margin-left: -10px !important; 
+    font-size: calc(0.5vw + 4px);
+    font-weight: 600;
+    font-family: acumin;
+  
+}
+
+.popover-button {
+    background-color: #ad9863;
+    border: none;
+    
+    margin-bottom: 3%;
+}
+
+
+
+.carousel-indicators button {
+   width: 7px !important;
+   height: 7px !important;
+   transform: rotate(44deg);
+   opacity: 1 !important;
+   margin-left: 5% !important;
+}
+.carousel-indicators .active{
+    
+    border: 2px solid white !important;
+    outline-width:.5px !important;
+    outline-color: white !important;
+    outline-style: solid !important;
+    outline-offset:2px !important;
+}
+
+.first-para-of-second-carousal{
+    font-size: 11px;
+    font-weight: 600;
+   font-family:acumin;
+    text-align: justify;
+    
+}
+.curve{
+    height:20px;
+    width:4%;
+
+}
+.bed{
+    height:18px;
+    width:5%;
+
+
+}
+.head-icon{
+    height:18px;
+    width:3%;
+
+}
+.three-zero{
+    font-size:calc(2vw + 2px);
+    color:#0d0d73;
+    border-bottom: 1px solid #ad9863;
+    font-weight: 800;
+    margin-top: -5%;
+    font-family: serif;
+}
+.second-para{
+    width: 100%;
+}
+.button-for-modal{
+
+background-color: #ad9863;
+margin-top: 5px;
+border: none;
+position: relative;
+bottom: 8px;
+
+}
+.two-hundred{
+    padding-left: 70px;
+}
+/* commodites starts here
+commodites starts here */
+.para-of-commodites{
+    font-size: calc(0.5vw + 5px);
+    font-weight: 500;
+    text-align: center;
+    font-family: acumin;
+}
+.bed-grid{
+    width:18%;
+    height: 26px;
+    filter: invert(106%) sepia(153%) saturate(1463%) hue-rotate(177deg) brightness(28%) contrast(94%)
+}
+.un-tres{
+    color: #113d63d8;
+    font-weight: 600;
+    word-spacing: -1px;
+    font-family: acumin;
+    
+}
+.des{
+    width: 19% !important;
+    height: 32px;
+    background-color: #113D63;
+    font-size:calc(0.7vw + 4px);
+    color: white;
+    
+}
+.reserve{
+    width: 21% !important;
+    height: 32px;
+    background-color:#ad9863;
+    font-size:calc(0.7vw + 4px);
+    color: white;
+    
+}
+.for-un-bed-padd{
+    padding:0 10%;
+}
+.white-sofa-footer{
+    width:108%;
+    height: 223px;
+
+}
+.blue-sofa-footer{
+    width:108%;
+    height: 223px;
+
+}
+.chair-sofa-footer{
+    width:108%;
+    height: 223px;
+
+}
+/* commodites ends here
+commodites ends here */
+
+/* plan de la chamber starts here
+plan de la chamber starts here */
+@font-face {
+    font-family: acumin;
+    src: url(../Acumin\ Variable\ Concept.ttf);
+}
+.for-color{
+    padding-top: 5%;
+    background-color: #F8F8F8;
+
+}
+.de-la{
+    color: #113D63;
+    font-family: serif;
+    padding-left: 1%;
+    font-weight: 700;
+}
+.para-of-de-la{
+    text-align: center;
+    padding-left: 19%;
+    font-size: calc(0.5vw + 5px);
+   
+    font-weight: 500;
+
+}
+.img-graphics-footer{
+    width:12%;
+    height:75%;
+}
+.plan-de-col{
+   
+    height: 35px;
+    background-color: #113D63;
+    font-size:calc(0.7vw + 4px);
+    color: white;
+    
+}
+
+
+/* plan de la chamber ends here
+plan de la chamber ends here */
+
+
+
+
+
+
