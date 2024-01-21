@@ -1,0 +1,82 @@
+.container2{
+    
+ padding-top: 60px;
+ background-color: #eee;
+ padding-left: 70px;
+ width: 100%;
+ height: 400px;
+ display: grid;
+ grid-template-columns: 160px 160px 160px 160px 160px 160px 160px ;
+ grid-template-rows: 70px 70px 70px 70px 70px ;
+ grid-column-gap: 20px;
+ opacity: 0.9;
+ 
+}
+.head{
+    margin-top: 150px;
+    background-color: #eee;
+    border: none;
+    text-align: center;
+    padding-top: 80px;
+    opacity: 0.7;
+}
+
+.footer{
+    
+   background: url('bottom.svg'),linear-gradient( rgba(0, 0, 0, 0.829), rgba(0, 0, 0, 0.849));
+   background-repeat: no-repeat;
+
+   background-color: #eee;
+   height: 300px;
+   text-align: center;
+   color: white;
+    width: 100%;
+    padding-top: 130px;
+
+}
+.footer2{
+    background-color: black;
+    height: 150px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+
+
+}
+.footer2 p{
+    opacity: 0.9;
+}
+.footer2 ul{
+
+    display: flex;
+    list-style: none; color: white;
+    margin-left: 500px;
+    margin-top: 30px;
+  
+
+}
+.footer2 li{
+    margin: 5px;
+    text-align: none;
+   
+}
+.footer2 a{
+    color: white;
+    text-decoration: none;
+    opacity: 0.5;
+}
+.secondbutton{
+    color: white;
+    background-color: white;
+    width: 100px;
+    height: 15px;
+}
+.button2{
+    width: 150px; 
+    height: 50px; 
+    font-size: 15px;
+     background-color: rgba(0, 0, 0, 0.342); 
+     color: white; 
+     border: 1px solid white;
+}

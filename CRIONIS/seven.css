@@ -1,0 +1,15 @@
+.seven{
+    
+    background-color: #f8f8f8;
+    display: grid;
+    grid-template-columns: 400px 400px 400px;
+    grid-template-rows: 300px 300px 300px;
+}
+.ten   { margin-left: 100px; text-align: center;}
+.twenty{ margin-left: 100px; margin-top: 40px; text-align: center;}
+.thirty{ margin-left: 100px; text-align: center;}
+.forty{ margin-left: 100px; text-align: center;}
+.fifty{ margin-left: 100px; margin-top: 40px; text-align: center;}
+.sixty{ margin-left: 100px; text-align: center;}
+.seventy{   margin-left: 200px; text-align: center;}
+.eighty{   margin-left: 200px; text-align: center;}

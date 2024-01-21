@@ -1,0 +1,66 @@
+.sets{
+    display: flex;
+    padding-bottom: 20px;
+}
+.sets img{
+margin-left: 300px;
+margin-right: 270px;
+}
+
+
+
+
+
+
+
+
+.sets2{
+    display: flex;
+    padding-top: 30px;
+   
+}
+.apart {
+    display: flex;
+    font-size: 16px;
+    opacity: 0.7;
+    width: 300px;
+    padding-bottom: 20px;
+    
+   
+    
+}
+.apart img{ 
+    
+    height: 40px;
+    margin-right: 20px;
+    position: relative;
+    bottom: 6px;
+    padding-bottom: 20px;
+    
+
+}
+.apartm{
+    display: flex;
+    margin-left: 60px;
+    padding-bottom: 20px;
+   
+}
+
+.apartm img{
+     height: 40px;
+     margin-left: 60px;
+     margin-right: 20px;
+     padding-bottom: 20px;
+    }
+.aparte{
+    display: flex;
+    margin-left: 60px;
+    padding-bottom: 20px;
+  
+}
+.aparte img{
+height: 40px;
+margin-right: 20px;
+padding-bottom: 20px;
+
+}
